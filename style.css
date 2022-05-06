@@ -1,0 +1,13 @@
+body{
+    background-color: lightpink;
+    color: lightcoral;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#start{
+    font-size: 20px;
+}
+
+canvas{
+    margin-top: 90px;
+}
